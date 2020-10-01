@@ -1,2 +1,2 @@
 # Dictionary
-This helps you find out the meaning of a word.
+It will help you to find out the meaning of any word.
